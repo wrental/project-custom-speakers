@@ -1,6 +1,6 @@
 # Custom Repurposed Speakers!
-<img src="./images/frontVertIso.png" alt="" style="width:50%; height:auto;"><img src="./images/frontHorizIso.png" alt="" style="width:50%; height:auto;">  
-<img src="./images/backVertIso.png" alt="" style="width:50%; height:auto;"><img src="./images/backHorizIso.png" alt="" style="width:50%; height:auto;">  
+<img src="./images/frontVertIso.png" alt="" style="width:34%; height:auto;"><img src="./images/frontHorizIso.png" alt="" style="width:50%; height:auto;">  
+<img src="./images/backVertIso.png" alt="" style="width:31%; height:auto;"><img src="./images/backHorizIso.png" alt="" style="width:50%; height:auto;">  
 
 ## Features:
 - 4.5" 8 ohm woofers
