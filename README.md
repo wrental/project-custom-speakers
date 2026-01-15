@@ -11,6 +11,12 @@
 - blank faceplate included to modify for use with your own drivers
 - all .STEP files
 
+## Needed Parts:
+- m4\*6 bolts (x40)
+- m4\*6\*8 heat inserts (x40)
+- m3\*6 bolts (x8)
+- m3\*5\*6 heat inserts (x8)
+
 ## Overview:
 When dead amps in a pair of Definitive Technology BP7006 towers left me with ample (lol) crackle and no bass, I figured why not use the remaining perfectly functional drivers? So I tore the towers apart, only to discover through some online digging that the subs were practically useless at something like 36 ohms - way too much for most budget modern amps. So I scrapped the woofers but kept all 4 woofers and tweeters, enough to make 2 pairs of speakers!
 
