@@ -1,14 +1,13 @@
 # Custom Repurposed Speakers!
-<img src="./images/frontVertIso.png" alt="" style="width:34%; height:auto;"><img src="./images/frontHorizIso.png" alt="" style="width:50%; height:auto;">  
-<img src="./images/backVertIso.png" alt="" style="width:31%; height:auto;"><img src="./images/backHorizIso.png" alt="" style="width:50%; height:auto;">  
+<img src="./images/speakers_front.png" alt="" style="width:50%; height:auto;"><img src="./images/speakers_back.png" alt="" style="width:50%; height:auto;">  
+<img src="./images/speakers_front_horiz.png" alt="" style="width:50%; height:auto;"><img src="./images/speakers_back_horiz.png" alt="" style="width:50%; height:auto;">  
 
 ## Features:
 - 4.5" 8 ohm woofers
 - 1" 8 ohm tweeters
-- YLY 2088 crossovers ([Aliexpress](https://www.aliexpress.us/item/3256807759355647.html))
-- either (or both!) 1/4" jack and 5-way binding post inputs (generic jacks and plugs, reused posts from towers)
+- YLY 2088 crossovers 
+- either (or both!) 1/4" jack, 5-way binding post inputs (generic jacks and plugs, reused posts from towers)
 - included "stands" for horizontal mounting
-- blank faceplate included to modify for use with your own drivers
 - all .STEP files
 
 ## Needed Parts:
