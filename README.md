@@ -20,3 +20,5 @@
 When dead amps in a pair of Definitive Technology BP7006 towers left me with ample (lol) crackle and no bass, I figured why not use the remaining perfectly functional drivers? So I tore the towers apart, only to discover through some online digging that the subs were practically useless at something like 36 ohms - way too much for most budget modern amps. So I scrapped the woofers but kept all 4 woofers and tweeters, enough to make 2 pairs of speakers!
 
 To the audiophiles bound to get upset at this design, no I wasn't going for perfect sound and flat EQ - this was a salvage project to use what I had and make something functional that would be better than integrated TV and monitor speakers (a very low bar). But, they are dense rigid, and sealed, so they work well enough for me.
+
+Additional note: the documentation for the YLY 2088 crossovers is... nonexistent. I wouldn't particularly recommend them, but they are cheap and get the job done. The only info I could find is [here](images/YLY2088_datasheet.pdf)
