@@ -21,4 +21,4 @@ When dead amps in a pair of Definitive Technology BP7006 towers left me with amp
 
 To the audiophiles bound to get upset at this design, no I wasn't going for perfect sound and flat EQ - this was a salvage project to use what I had and make something functional that would be better than integrated TV and monitor speakers (a very low bar). But, they are dense rigid, and sealed, so they work well enough for me.
 
-Additional note: the documentation for the YLY 2088 crossovers is... nonexistent. I wouldn't particularly recommend them, but they are cheap and get the job done. The only info I could find is [here](images/YLY2088_datasheet.pdf)
+Additional note: the documentation for the YLY 2088 crossovers is... nonexistent. I wouldn't particularly recommend them, but they are cheap and get the job done. The only info I could find is [here (local copy)](images/YLY2088_datasheet.pdf) (source: https://www.hadex.cz/spec/q619.pdf).
